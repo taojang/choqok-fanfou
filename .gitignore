@@ -1,0 +1,4 @@
+build/
+.kdev4/
+choqok-fanfou.kdev4
+*.swp
